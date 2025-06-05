@@ -18,3 +18,15 @@ This repository brings together exploratory scripts, automation tools, documenta
 /templates # Project or content templates for reuse
 
 /experiments # AI prototypes, models, and test files
+
+## ⚖️ License
+
+This repository is licensed under the [MIT License](LICENSE).  
+Feel free to use, fork, and contribute with credit.
+
+---
+
+### About
+
+Created and maintained by [Patricia Liden](https://www.linkedin.com/in/patliden),  
+Project, Portfolio, PMO Expert | AI Explorer | Digital Creator @PMInsight
